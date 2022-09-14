@@ -1,2 +1,2 @@
-# Landmarks
-Sample landmarks application for iOS and iPadOS
+# Scrumdinger
+## Sample scrum meeting organizer app for iOS and iPadOS
